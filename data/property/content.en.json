@@ -1,0 +1,80 @@
+{
+  "site": {
+    "apartmentName": "Vardania Comfort Stay",
+    "welcomeTitle": "Welcome!",
+    "welcomeText": "Your digital guest guide — everything you need during your stay in the beautiful Lefkada!",
+    "heroAlt": "Illustrated hero view for Vardania Comfort Stay"
+  },
+  "pages": {
+    "wifi": {
+      "title": "WiFi Information",
+      "ssid": "to spiti mou",
+      "password": "123456789!",
+      "notes": "The router is in the living room next to the TV."
+    },
+    "accommodation": {
+      "title": "Accommodation",
+      "map": "Use the address in your booking confirmation for navigation.",
+      "arrival": "Check-in after 15:00. Please contact the host in advance to arrange your arrival.",
+      "checkout": "Please check-out by 11:00. Leave the keys on the living room table and send a photo.",
+      "late_checkout": "Late check-out may be available upon request and subject to availability. Contact host in advance to arrange.",
+      "transfer": "Free transfer is available from the KTEL bus station to the apartment, or transfer from the airport is available for a €35 fee, after prior notice.",
+      "air_condition": "The AC remote is in the living room, next to the TV remote. Recommended setting: 24–26°C for comfort and energy savings. The property also features underfloor heating/cooling for more consistent temperature control. When using the underfloor cooling, keep the AC running to help dehumidify the space.",
+      "water": "Tap water is not drinkable. Please use the bottled water in the refrigerator for drinking.",
+      "hot_water": "Hot water is available 24h assisted by solar heating. In winter, on cloudy days, heating may be reduced.",
+      "beach_faucet": "There is a faucet outside the apartment to rinse your feet after the beach.",
+      "bbq": "If you need a BBQ setup, contact the host in advance.",
+      "consumables": "You can use all the consumables (slippers, essentials, water, breakfasts, chocolates).",
+      "baby_chair": "A baby chair is available if you request it in advance.",
+      "board_games": "There are board games under the TV. Please tidy them up after use and make sure no pieces are lost."
+    },
+    "house_rules": {
+      "title": "📋 House Rules",
+      "rules": [
+        "No smoking inside.",
+        "Please respect quiet hours 22:00-08:00.",
+        "Place any board games back in their boxes with all the pieces.",
+        "Shake sand off before entering from the beach."
+      ]
+    },
+    "restaurants": {
+      "title": "Restaurants & Cafes",
+      "intro": "Selected local restaurants and cafes nearby."
+    },
+    "attractions": {
+      "title": "Local Attractions",
+      "intro": "Places to visit around Lefkada."
+    },
+    "contacts": {
+      "title": "Contact Me",
+      "whatsappLabel": "WhatsApp",
+      "messengerLabel": "Messenger",
+      "viberLabel": "Viber",
+      "phoneLabel": "Phone"
+    },
+    "neighborhood": {
+      "title": "Neighborhood",
+      "supermarket": {
+        "title": "Supermarket",
+        "text": "Supermarket is within 5 minutes by foot."
+      },
+      "pharmacy": {
+        "title": "Pharmacy",
+        "text": "The nearest Pharmacy is within 7 minutes by foot."
+      },
+      "atm": { "title": "ATM", "text": "ATMs are available in Lefkada Town." },
+      "cafes": {
+        "title": "Cafes",
+        "text": "Coffee spots around the marina and town center are 5-10 minutes away by car."
+      },
+      "bakery": {
+        "title": "Bakery",
+        "text": "Local bakeries offer fresh bread and pastries in the mornings."
+      },
+      "gas": {
+        "title": "Gas Station",
+        "text": "Fuel stations are located on main roads around Lefkada."
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "apt-2": {
+    "porto-katsiki": {
+      "distance_km": 42.6,
+      "drive_time_min": 62
+    },
+    "egremni": {
+      "distance_km": 36.5,
+      "drive_time_min": 55
+    },
+    "kathisma": {
+      "distance_km": 15.1,
+      "drive_time_min": 23
+    },
+    "mylos": {
+      "distance_km": 12.1,
+      "drive_time_min": 18
+    },
+    "avali": {
+      "distance_km": 23.2,
+      "drive_time_min": 41
+    },
+    "kavalikefta": {
+      "distance_km": 22.8,
+      "drive_time_min": 40
+    },
+    "megali-petra": {
+      "distance_km": 22.6,
+      "drive_time_min": 39
+    },
+    "pefkoulia": {
+      "distance_km": 8.5,
+      "drive_time_min": 13
+    },
+    "nidri": {
+      "distance_km": 16.9,
+      "drive_time_min": 24
+    },
+    "perigiali": {
+      "distance_km": 16.0,
+      "drive_time_min": 22
+    },
+    "nikiana": {
+      "distance_km": 9.2,
+      "drive_time_min": 14
+    },
+    "lygia": {
+      "distance_km": 6.9,
+      "drive_time_min": 11
+    },
+    "agiofili": {
+      "distance_km": 40.5,
+      "drive_time_min": 55
+    },
+    "vasiliki": {
+      "distance_km": 38.2,
+      "drive_time_min": 49
+    },
+    "ammoussa": {
+      "distance_km": 37.1,
+      "drive_time_min": 50
+    }
+  }
+}

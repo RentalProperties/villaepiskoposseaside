@@ -1,0 +1,46 @@
+{
+  "nydri": {
+    "distance_km": 29.5,
+    "drive_time_min": 29
+  },
+  "faneromeni": {
+    "distance_km": 3.1,
+    "drive_time_min": 7
+  },
+  "agia-mavra": {
+    "distance_km": 2.9,
+    "drive_time_min": 6
+  },
+  "lefkada-town": {
+    "distance_km": 1.4,
+    "drive_time_min": 3
+  },
+  "arch-museum": {
+    "distance_km": 2.1,
+    "drive_time_min": 5
+  },
+  "folklore-karya": {
+    "distance_km": 14.8,
+    "drive_time_min": 22
+  },
+  "sikelianos-museum": {
+    "distance_km": 1.2,
+    "drive_time_min": 4
+  },
+  "melissa-gorge": {
+    "distance_km": 8.0,
+    "drive_time_min": 14
+  },
+  "papanikolis-cave": {
+    "distance_km": 35.0,
+    "drive_time_min": 90
+  },
+  "cape-lefkatas": {
+    "distance_km": 47.6,
+    "drive_time_min": 67
+  },
+  "profitis-ilias": {
+    "distance_km": 37.7,
+    "drive_time_min": 55
+  }
+}

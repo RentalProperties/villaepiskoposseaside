@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Apartment Guide</title>
+    <link rel="icon" type="image/png" href="assets/images/favicon.png" />
+    <link rel="stylesheet" href="assets/css/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="header-left">
+        <div class="site-name">
+          <span class="property-label" data-site-name>Cozy City Apartment</span>
+        </div>
+      </div>
+      <div class="lang-switch" role="group" aria-label="Language switch">
+        <button
+          type="button"
+          class="lang-btn active"
+          data-lang="en"
+          aria-label="Switch language to English"
+        >
+          <img
+            src="assets/images/flag-gb.svg"
+            alt="English"
+            class="flag-icon"
+          />
+        </button>
+        <button
+          type="button"
+          class="lang-btn"
+          data-lang="gr"
+          aria-label="Switch language to Greek"
+        >
+          <img src="assets/images/flag-gr.svg" alt="Greek" class="flag-icon" />
+        </button>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero">
+        <img src="assets/images/house.png" alt="Apartment" class="hero-img" />
+        <div class="hero-text">
+          <h2 data-welcome-title>Welcome!</h2>
+          <p data-welcome-text>
+            Your digital guest guide — everything you need during your stay.
+          </p>
+        </div>
+      </section>
+
+      <section class="menu-grid" aria-label="Main navigation">
+        <a class="card" href="pages/accommodation.html" data-card-id="checkin">
+          <span class="card-icon">🏠</span>
+          <h3>Accommodation</h3>
+          <p>Arrival, keybox and departure details.</p>
+        </a>
+
+        <a
+          class="card"
+          href="pages/neighborhood.html"
+          data-card-id="neighborhood"
+        >
+          <span class="card-icon">🏘️</span>
+          <h3>Neighborhood</h3>
+          <p>Supermarket, pharmacy, ATM, bakery and fuel.</p>
+        </a>
+
+        <a
+          class="card"
+          href="pages/restaurants.html"
+          data-card-id="restaurants"
+        >
+          <span class="card-icon">🍽️</span>
+          <h3>🍽 Restaurants</h3>
+          <p>Our local picks and quick bites.</p>
+        </a>
+
+        <a
+          class="card"
+          href="pages/attractions.html"
+          data-card-id="attractions"
+        >
+          <span class="card-icon">🏛️</span>
+          <h3>Local Attractions</h3>
+          <p>Sights, parks and museums nearby.</p>
+        </a>
+
+        <a class="card" href="pages/beaches.html" data-card-id="beaches">
+          <span class="card-icon">🏖️</span>
+          <h3>Beaches</h3>
+          <p>Best beaches in Lefkada.</p>
+        </a>
+
+        <a class="card" href="pages/emergency.html" data-card-id="emergency">
+          <span class="card-icon">🚨</span>
+          <h3>Emergency Contacts</h3>
+          <p>Important phone numbers and services.</p>
+        </a>
+
+        <a class="card" href="pages/contacts.html" data-card-id="contacts">
+          <span class="card-icon">☎️</span>
+          <h3>Contact Me</h3>
+          <p>WhatsApp, Messenger, Viber and Phone.</p>
+        </a>
+      </section>
+      <a
+        class="weather-section"
+        id="weather-section"
+        aria-label="Open detailed weather for Lefkada (opens in new tab)"
+        href="https://www.kairosradar.gr/kairos/leukada/10714543"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <div class="weather-top" role="presentation">
+          <div class="weather-location" id="weather-location">Lefkada</div>
+          <div class="weather-right">
+            <div
+              class="weather-current-icon"
+              id="weather-current-icon"
+              aria-hidden="true"
+            ></div>
+            <div class="weather-current-main">
+              <div class="weather-current-temp" id="weather-current-temp">
+                --°C
+              </div>
+              <div class="weather-desc" id="weather-desc">--</div>
+            </div>
+          </div>
+        </div>
+        <div class="forecast-row" id="forecast-row" aria-hidden="false"></div>
+      </a>
+    </main>
+
+    <script src="assets/js/app.js"></script>
+  </body>
+</html>

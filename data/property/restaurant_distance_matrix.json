@@ -1,0 +1,34 @@
+{
+  "patisserie": {
+    "distance_km": 1.8,
+    "drive_time_min": 5
+  },
+  "rachi": {
+    "distance_km": 20.7,
+    "drive_time_min": 28
+  },
+  "molos": {
+    "distance_km": 30.8,
+    "drive_time_min": 44
+  },
+  "avali-cantine": {
+    "distance_km": 23.1,
+    "drive_time_min": 41
+  },
+  "town-cafe-1": {
+    "distance_km": 1.4,
+    "drive_time_min": 3
+  },
+  "seaside-bar": {
+    "distance_km": 10.3,
+    "drive_time_min": 15
+  },
+  "gelato": {
+    "distance_km": 1.6,
+    "drive_time_min": 5
+  },
+  "lithanofli": {
+    "distance_km": 19.6,
+    "drive_time_min": 29
+  }
+}

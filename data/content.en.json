@@ -1,0 +1,74 @@
+{
+  "ui":{
+    "back":"← Back",
+    "lang_en":"Switch to English",
+    "lang_gr":"Switch to Greek",
+    "copyPassword":"Copy password",
+    "copied":"Copied",
+    "scanToJoin":"Scan to join Wi-Fi",
+    "searchPlaceholder":"Search",
+    "openInMaps":"Open in Maps",
+    "phoneLabel":"Phone",
+    "whatsappLabel":"WhatsApp",
+    "messengerLabel":"Messenger",
+    "viberLabel":"Viber",
+    "callAction":"Call",
+    "openWhatsApp":"Open WhatsApp",
+    "openMessenger":"Open Messenger",
+    "openViber":"Open Viber",
+    "rateStayTitle":"Rate your stay",
+    "rateStaySubtitle":"Leave a review on Google",
+    "rateStayAction":"Open Google",
+    "suggestImprovementsTitle":"Suggest improvements",
+    "suggestImprovementsSubtitle":"Share your ideas directly with us",
+    "suggestImprovementsAction":"Open form",
+    "suggestionModalTitle":"Suggest improvements",
+    "suggestionTextareaLabel":"Your suggestion",
+    "suggestionPlaceholder":"Write your suggestion here...",
+    "suggestionSubmit":"Submit",
+    "suggestionSending":"Sending...",
+    "suggestionSuccess":"Thank you for your suggestion",
+    "suggestionError":"Unable to send right now. Please try again later.",
+    "suggestionClose":"Close"
+  },
+  "accommodation_ui":{
+    "mapLabel":"Map",
+    "checkoutLabel":"Check-out",
+    "lateCheckoutLabel":"Late Check-out",
+    "transferLabel":"Transfer from/to Airport",
+    "waterLabel":"Water",
+    "hotWaterLabel":"Hot Water",
+    "beachFaucetLabel":"Beach Faucet",
+    "breakfastLabel":"Breakfast",
+    "consumablesLabel":"Consumables",
+    "babyChairLabel":"Baby Chair",
+    "boardGamesLabel":"Board Games",
+    "wellnessLabel":"Wellness & Spa",
+    "wifiLabel":"Wi-Fi",
+    "houseRulesLabel":"House Rules"
+  },
+  "navCards":[
+    {"id":"checkin","title":"Accommodation","subtitle":"Arrival, keybox and departure details."},
+    {"id":"transport","title":"Transportation","subtitle":"How to get around."},
+    {"id":"restaurants","title":"Restaurants & Cafes","subtitle":"Local picks and quick bites."},
+    {"id":"attractions","title":"Local Attractions","subtitle":"Sights, parks and museums."},
+    {"id":"emergency","title":"Emergency Contacts","subtitle":"Important phone numbers and services."},
+    {"id":"beaches","title":"Beaches","subtitle":"Best beaches in Lefkada."},
+    {"id":"contacts","title":"Contact Me","subtitle":"WhatsApp, Messenger, Viber, Phone."},
+    {"id":"neighborhood","title":"Neighborhood","subtitle":"Supermarket, pharmacy, ATM, bakery and fuel."}
+  ],
+  "pages":{
+    "emergency":{
+      "title":"Emergency Contacts",
+      "contacts":[
+        {"label":"Emergency services","value":"112","priority":0},
+        {"label":"Police","value":"100","priority":1},
+        {"label":"Firefighters","value":"199","priority":2},
+        {"label":"Hospital","value":"166","priority":3}
+      ]
+    },
+    "contacts":{
+      "suggestionEndpoint":"https://formspree.io/f/meeronor"
+    }
+  }
+}

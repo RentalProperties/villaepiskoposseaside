@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Seaside Family Apartment Hero</title>
+  <desc id="desc">Blue seaside illustration for the second demo apartment.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#9fd3ff"/>
+      <stop offset="100%" stop-color="#f7f3dc"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#sky)"/>
+  <circle cx="1040" cy="120" r="78" fill="#ffe79a"/>
+  <path d="M0 420 C220 390 350 450 540 430 C750 410 980 350 1280 400 V720 H0 Z" fill="#4fbbd7"/>
+  <path d="M0 520 C260 470 420 560 720 520 C980 486 1080 560 1280 530 V720 H0 Z" fill="#2086b7"/>
+  <rect x="180" y="260" width="420" height="210" rx="22" fill="#fff5e8" opacity="0.95"/>
+  <rect x="250" y="190" width="280" height="110" rx="20" fill="#f2a65a"/>
+  <rect x="355" y="360" width="70" height="110" rx="10" fill="#f2a65a"/>
+  <text x="110" y="110" fill="#11405c" font-size="52" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Seaside Family Apartment</text>
+  <text x="112" y="164" fill="#1d5c7d" font-size="28" font-family="Segoe UI, Arial, sans-serif">Property-specific hero image stored in apt-2</text>
+</svg>

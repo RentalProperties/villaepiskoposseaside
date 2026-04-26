@@ -1,0 +1,75 @@
+{
+  "ui":{
+    "back":"← Πίσω",
+    "lang_en":"Αλλαγή σε Αγγλικά",
+    "lang_gr":"Αλλαγή σε Ελληνικά",
+    "copyPassword":"Αντιγραφή κωδικού",
+    "copied":"Αντιγράφηκε",
+    "scanToJoin":"Σκανάρετε για σύνδεση Wi‑Fi",
+    "searchPlaceholder":"Αναζήτηση",
+    "openInMaps":"Άνοιγμα στους Χάρτες",
+    "phoneLabel":"Τηλέφωνο",
+    "whatsappLabel":"WhatsApp",
+    "messengerLabel":"Messenger",
+    "viberLabel":"Viber",
+    "callAction":"Καλέστε",
+    "openWhatsApp":"Ανοίξτε WhatsApp",
+    "openMessenger":"Ανοίξτε Messenger",
+    "openViber":"Ανοίξτε Viber",
+    "rateStayTitle":"Αξιολογήστε τη διαμονή σας",
+    "rateStaySubtitle":"Αφήστε μια αξιολόγηση στο Google",
+    "rateStayAction":"Άνοιγμα Google",
+    "suggestImprovementsTitle":"Προτείνετε βελτιώσεις",
+    "suggestImprovementsSubtitle":"Στείλτε μας την ιδέα σας απευθείας",
+    "suggestImprovementsAction":"Άνοιγμα φόρμας",
+    "suggestionModalTitle":"Προτείνετε βελτιώσεις",
+    "suggestionTextareaLabel":"Η πρότασή σας",
+    "suggestionPlaceholder":"Γράψτε εδώ την πρότασή σας...",
+    "suggestionSubmit":"Υποβολή",
+    "suggestionSending":"Αποστολή...",
+    "suggestionSuccess":"Ευχαριστούμε για την πρότασή σας",
+    "suggestionError":"Η αποστολή δεν ήταν δυνατή τώρα. Δοκιμάστε ξανά αργότερα.",
+    "suggestionClose":"Κλείσιμο"
+  },
+  "accommodation_ui":{
+    "mapLabel":"Χάρτης",
+    "checkinLabel":"Άφιξη",
+    "checkoutLabel":"Αναχώρηση",
+    "lateCheckoutLabel":"Καθυστερημένη Αναχώρηση",
+    "transferLabel":"Μεταφορά από/προς το αεροδρόμιο",
+    "waterLabel":"Νερό",
+    "hotWaterLabel":"Ζεστό Nερό",
+    "beachFaucetLabel":"Βρύση Παραλίας",
+    "breakfastLabel":"Πρωινό",
+    "consumablesLabel":"Αναλώσιμα",
+    "babyChairLabel":"Καρεκλάκι Μωρού",
+    "boardGamesLabel":"Επιτραπέζια Παιχνίδια",
+    "wellnessLabel":"Ευεξία & Σπα",
+    "wifiLabel":"Wi-Fi",
+    "houseRulesLabel":"Κανόνες Σπιτιού"
+  },
+  "navCards":[
+    {"id":"checkin","title":"Κατάλυμα","subtitle":"Άφιξη, θήκη κλειδιών και αναχώρηση."},
+    {"id":"transport","title":"Μεταφορές","subtitle":"Πώς να κινηθείτε."},
+    {"id":"restaurants","title":"Εστιατόρια & Καφέ","subtitle":"Τοπικές επιλογές και γρήγορα σνακ."},
+    {"id":"attractions","title":"Τοπικά Αξιοθέατα","subtitle":"Αξιοθέατα, πάρκα και μουσεία."},
+    {"id":"emergency","title":"Επείγοντα","subtitle":"Σημαντικά τηλέφωνα και υπηρεσίες."},
+    {"id":"beaches","title":"Παραλίες","subtitle":"Καλύτερες παραλίες στη Λευκάδα."},
+    {"id":"contacts","title":"Επικοινωνία","subtitle":"WhatsApp, Messenger, Viber, Τηλέφωνο."},
+    {"id":"neighborhood","title":"Γειτονιά","subtitle":"Σούπερ μάρκετ, φαρμακείο, ATM, αρτοποιείο, πρατήριο καυσίμων."}
+  ],
+  "pages":{
+    "emergency":{
+      "title":"Επείγοντα",
+      "contacts":[
+        {"label":"Υπηρεσίες έκτακτης ανάγκης","value":"112","priority":0},
+        {"label":"Αστυνομία","value":"100","priority":1},
+        {"label":"Πυροσβεστική","value":"199","priority":2},
+        {"label":"Νοσοκομείο","value":"166","priority":3}
+      ]
+    },
+    "contacts":{
+      "suggestionEndpoint":"https://formspree.io/f/meeronor"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "supermarkets": [
+    { "name_en": "Market In", "name_gr": "Market In", "maps": "https://www.google.com/maps/place/Market+In+%CE%9F%CF%8D%CE%BB%CE%BF%CF%86+%CE%A0%CE%AC%CE%BB%CE%BC%CE%B5/@38.8340774,20.6985326,18z/data=!3m1!4b1!4m6!3m5!1s0x135c4bc2a398ac7d:0x81956a0cfc3c848c!8m2!3d38.834076!4d20.6994077!16s%2Fg%2F11ft97p8sl?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D"},
+    { "name_en": "Sklavenitis", "name_gr": "Σκλαβενίτης", "maps": "https://maps.google.com/?q=Sklavenitis+Lefkada"},
+    { "name_en": "Lidl Lefkada", "name_gr": "Lidl Λευκάδας", "maps": "https://maps.google.com/?q=Lidl+Lefkada"}
+  ],
+  "pharmacies": [
+    { "name_en": "Nearest Pharmacy", "name_gr": "Κοντινότερο Φαρμακείο", "maps": "https://www.google.com/maps/place/%CE%9A%CE%91%CE%92%CE%92%CE%91%CE%94%CE%91%CE%A3+%CE%A0%CE%95%CE%A1%CE%99%CE%9A%CE%9B%CE%97%CE%A3/@38.8317175,20.6990688,17z/data=!3m1!4b1!4m6!3m5!1s0x135c4a0314cb0259:0x37b46e32c1a070ef!8m2!3d38.8317133!4d20.7016491!16s%2Fg%2F1wb44hfk?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D"},
+    { "name_en": "24h Pharmacy", "name_gr": "Φαρμακείο 24ωρο", "maps": "https://maps.google.com/?q=24h+pharmacy+Lefkada"}
+  ],
+  "atms": [
+    { "name_en": "National Bank ATM", "name_gr": "ΑΤΜ Εθνικής Τράπεζας", "maps": "https://www.google.com/maps/place/%CE%95%CE%B8%CE%BD%CE%B9%CE%BA%CE%AE+%CE%A4%CF%81%CE%AC%CF%80%CE%B5%CE%B6%CE%B1/@38.772937,20.5807196,12z/data=!4m10!1m2!2m1!1sNational+Bank+ATM+Lefkada!3m6!1s0x135c4a0183db83b7:0x590018a85936d7fd!8m2!3d38.8325505!4d20.7065457!15sChlOYXRpb25hbCBCYW5rIEFUTSBMZWZrYWRhIgOIAQGSAQRiYW5r4AEA!16s%2Fg%2F1260ctkjj?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D"},
+    { "name_en": "Alpha Bank ATM", "name_gr": "ΑΤΜ Alpha Bank", "maps": "https://www.google.com/maps/place/ATM+Alpha+Bank/@38.8303776,20.7001888,17z/data=!4m10!1m2!2m1!1sAlpha+Bank+ATM+Lefkada!3m6!1s0x135c4b400ebb8f8b:0x627c622e388818fc!8m2!3d38.8303776!4d20.7041613!15sChZBbHBoYSBCYW5rIEFUTSBMZWZrYWRhIgOIAQGSAQNhdG3gAQA!16s%2Fg%2F11frch10f8?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D"},
+    { "name_en": "Eurobank ATM", "name_gr": "ΑΤΜ Eurobank", "maps": "https://www.google.com/maps/place/Eurobank+ATM/@38.831116,20.7001026,16z/data=!4m10!1m2!2m1!1sEurobank+ATM+Lefkada!3m6!1s0x135c4b003ffce3cd:0x1fa27328d26e4dc5!8m2!3d38.831116!4d20.7050037!15sChRFdXJvYmFuayBBVE0gTGVma2FkYVoWIhRldXJvYmFuayBhdG0gbGVma2FkYZIBA2F0bZoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VNemRqaGhPRmxCRUFF4AEA-gEECAAQIA!16s%2Fg%2F11y8mzwzsf?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D"}
+  ],
+  "cafes": [
+    { "name_en": "12 Cofe", "name_gr": "12 Cofe", "maps": "https://www.google.com/maps/place/12+Cafe/@38.831927,20.6990598,17z/data=!3m2!4b1!5s0x135c4a0340fa7a79:0x35fc68fb7b517ca8!4m6!3m5!1s0x135c4a0340455553:0xe7543758401824f4!8m2!3d38.8319228!4d20.7016401!16s%2Fg%2F11g6wwzmvx?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D"},
+    { "name_en": "Royal Cafe", "name_gr": "Royal Cafe", "maps": "https://www.google.com/maps/place/Royal+Cafe/@38.8342099,20.6966019,17z/data=!3m1!4b1!4m6!3m5!1s0x135c4b0e9da0df4f:0xf5e9accaefca7535!8m2!3d38.8342057!4d20.6991822!16s%2Fg%2F11q337vm1l?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D"},
+    { "name_en": "Lobby", "name_gr": "Lobby", "maps": "https://www.google.com/maps/place/Lobby+%CE%8A%CE%BD%CF%84%CE%B5%CF%81%CE%BD%CE%B5%CF%84+%CE%BA%CE%B1%CF%86%CE%B5/@38.8321402,20.7008656,17z/data=!3m1!4b1!4m6!3m5!1s0x135c4b2ee67c5e8b:0x6d6c08ccff8d9eab!8m2!3d38.8321375!4d20.7025256!16s%2Fg%2F11h3g3j_zk?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D"}
+  ],
+  "bakeries": [
+    { "name_en": "Zesta Xefournismata", "name_gr": "Ζεστά Ξεφουρνίσματα", "maps": "https://www.google.com/maps/place/Zesta+Xefournismata/@38.8317742,20.6987009,17z/data=!3m2!4b1!5s0x135c4a0345d46ae3:0xb7aa2e48398961c2!4m6!3m5!1s0x135c4bda0c06a85d:0xa8ade07eba074b6f!8m2!3d38.83177!4d20.7012812!16s%2Fg%2F11fklh6g7r?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D"},
+    { "name_en": "Zimis", "name_gr": "Ζύμης", "maps": "https://www.google.com/maps/place/%CE%96%CF%8D%CE%BC%CE%B7%CF%82/@38.8303506,20.7015101,17z/data=!3m1!4b1!4m6!3m5!1s0x135c4a0477faab63:0x27c82860bb7c8d7c!8m2!3d38.8303464!4d20.7040904!16s%2Fg%2F11bxd8h1wx?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D"},
+    { "name_en": "Arhontariki", "name_gr": "Αρχονταρίκι", "maps": "https://www.google.com/maps/place/Arhontariki/@38.8309909,20.7021845,17z/data=!3m1!4b1!4m6!3m5!1s0x135c4bd5c426a2a5:0x49db6ad2bafc947e!8m2!3d38.8309867!4d20.7047648!16s%2Fg%2F11rql7s50c?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D"}
+  ],
+  "gas_stations": [
+    { "name_en": "BP Gas Station", "name_gr": "Πρατήριο BP", "maps": "https://www.google.com/maps/place/%CE%98%CE%B5%CE%BC%CE%B5%CE%BB%CE%B7%CF%82+%CE%A3.+%CE%93%CE%B5%CF%89%CF%81%CE%B3%CE%B9%CE%BF%CF%82/@38.8253252,20.6994196,16z/data=!4m6!3m5!1s0x135c4a1011663ff5:0x9f2c0e27a64d426b!8m2!3d38.8254014!4d20.6992501!16s%2Fg%2F11d_tqz69x?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D"},
+    { "name_en": "Shell Gas Station", "name_gr": "Πρατήριο Shell", "maps": "https://www.google.com/maps/place/Shell/@38.8164767,20.6894337,17.27z/data=!4m14!1m7!3m6!1s0x135c35f565c4ef43:0x340622b460e3724f!2sShell!8m2!3d38.8152849!4d20.7128858!16s%2Fg%2F11bxd7h7vd!3m5!1s0x135c4a6ab83c0ef1:0x9f114fbb36e2a31e!8m2!3d38.8172962!4d20.6898345!16s%2Fg%2F11c52gg18_?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D"},
+    { "name_en": "EV charging", "name_gr": "Φόρτιση EV", "maps": "https://www.google.com/maps/place/%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82+%CF%86%CF%8C%CF%81%CF%84%CE%B9%CF%83%CE%B7%CF%82+nrg+incharge/@38.8278388,20.7007076,17z/data=!3m1!4b1!4m6!3m5!1s0x135c4bd54b45b5bf:0x35dc349010bf30c9!8m2!3d38.8278346!4d20.7032879!16s%2Fg%2F11t30hl74l?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D"}
+  ]
+}
