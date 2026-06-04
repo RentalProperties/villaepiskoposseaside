@@ -364,8 +364,8 @@
 
     // Update site title and hero
     const siteNameEl = document.querySelector("[data-site-name]");
-    if (siteNameEl && content.site && content.site.apartmentName)
-      siteNameEl.textContent = content.site.apartmentName;
+    if (siteNameEl && propMeta && propMeta.name)
+      siteNameEl.textContent = propMeta.name;
     const welcomeTitle = document.querySelector("[data-welcome-title]");
     if (welcomeTitle && content.site && content.site.welcomeTitle)
       welcomeTitle.textContent = content.site.welcomeTitle;
@@ -383,7 +383,7 @@
       heroImg.src = SITE_ROOT + heroImagePath;
       heroImg.alt =
         (content.site && content.site.heroAlt) ||
-        (content.site && content.site.apartmentName) ||
+        (propMeta && propMeta.name) ||
         "Apartment";
     }
 
@@ -1043,7 +1043,7 @@
           </div>
           <form class="contact-form" action="${escapeHtml(suggestionEndpoint)}" method="POST" novalidate>
             <input type="hidden" name="propertyId" value="${escapeHtml(propertyId)}">
-            <input type="hidden" name="propertyName" value="${escapeHtml((siteContent.site && siteContent.site.apartmentName) || "")}">
+            <input type="hidden" name="propertyName" value="${escapeHtml((CURRENT_PROPERTY_META && CURRENT_PROPERTY_META.name) || "")}">
             <div class="contact-form-fields">
               <label class="sr-only" for="suggestion-message">${escapeHtml(suggestionTextareaLabel)}</label>
               <textarea id="suggestion-message" name="message" placeholder="${escapeHtml(suggestionPlaceholder)}" required></textarea>
