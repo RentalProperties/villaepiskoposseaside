@@ -1,46 +1,46 @@
 {
   "nydri": {
-    "distance_km": 29.5,
-    "drive_time_min": 29
+    "distance_km": 11.0,
+    "drive_time_min": 18
   },
   "faneromeni": {
-    "distance_km": 3.1,
-    "drive_time_min": 7
+    "distance_km": 10.2,
+    "drive_time_min": 15
   },
   "agia-mavra": {
-    "distance_km": 2.9,
-    "drive_time_min": 6
+    "distance_km": 9.3,
+    "drive_time_min": 15
   },
   "lefkada-town": {
-    "distance_km": 1.4,
-    "drive_time_min": 3
+    "distance_km": 8.0,
+    "drive_time_min": 13
   },
   "arch-museum": {
-    "distance_km": 2.1,
-    "drive_time_min": 5
-  },
-  "folklore-karya": {
-    "distance_km": 14.8,
-    "drive_time_min": 22
-  },
-  "sikelianos-museum": {
-    "distance_km": 1.2,
-    "drive_time_min": 4
-  },
-  "melissa-gorge": {
-    "distance_km": 8.0,
+    "distance_km": 8.5,
     "drive_time_min": 14
   },
+  "folklore-karya": {
+    "distance_km": 19.3,
+    "drive_time_min": 27
+  },
+  "sikelianos-museum": {
+    "distance_km": 7.6,
+    "drive_time_min": 12
+  },
+  "melissa-gorge": {
+    "distance_km": 12.5,
+    "drive_time_min": 19
+  },
   "papanikolis-cave": {
-    "distance_km": 35.0,
-    "drive_time_min": 90
+    "distance_km": 24.3,
+    "drive_time_min": 80
   },
   "cape-lefkatas": {
-    "distance_km": 47.6,
-    "drive_time_min": 67
+    "distance_km": 44.1,
+    "drive_time_min": 64
   },
   "profitis-ilias": {
-    "distance_km": 37.7,
-    "drive_time_min": 55
+    "distance_km": 29.2,
+    "drive_time_min": 45
   }
 }

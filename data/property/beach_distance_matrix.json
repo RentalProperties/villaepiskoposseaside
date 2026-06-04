@@ -1,64 +1,64 @@
 {
   "apt-2": {
     "porto-katsiki": {
-      "distance_km": 42.6,
-      "drive_time_min": 62
+      "distance_km": 43.9,
+      "drive_time_min": 65
     },
     "egremni": {
-      "distance_km": 36.5,
-      "drive_time_min": 55
+      "distance_km": 44.5,
+      "drive_time_min": 63
     },
     "kathisma": {
-      "distance_km": 15.1,
-      "drive_time_min": 23
+      "distance_km": 21.7,
+      "drive_time_min": 31
     },
     "mylos": {
-      "distance_km": 12.1,
-      "drive_time_min": 18
+      "distance_km": 18.7,
+      "drive_time_min": 26
     },
     "avali": {
-      "distance_km": 23.2,
-      "drive_time_min": 41
+      "distance_km": 29.7,
+      "drive_time_min": 50
     },
     "kavalikefta": {
-      "distance_km": 22.8,
-      "drive_time_min": 40
+      "distance_km": 29.3,
+      "drive_time_min": 48
     },
     "megali-petra": {
-      "distance_km": 22.6,
-      "drive_time_min": 39
+      "distance_km": 29.2,
+      "drive_time_min": 48
     },
     "pefkoulia": {
-      "distance_km": 8.5,
-      "drive_time_min": 13
+      "distance_km": 15.1,
+      "drive_time_min": 21
     },
     "nidri": {
-      "distance_km": 16.9,
-      "drive_time_min": 24
+      "distance_km": 8.4,
+      "drive_time_min": 13
     },
     "perigiali": {
-      "distance_km": 16.0,
-      "drive_time_min": 22
-    },
-    "nikiana": {
-      "distance_km": 9.2,
-      "drive_time_min": 14
-    },
-    "lygia": {
-      "distance_km": 6.9,
+      "distance_km": 7.5,
       "drive_time_min": 11
     },
+    "nikiana": {
+      "distance_km": 0.7,
+      "drive_time_min": 1
+    },
+    "lygia": {
+      "distance_km": 1.6,
+      "drive_time_min": 2
+    },
     "agiofili": {
-      "distance_km": 40.5,
-      "drive_time_min": 55
+      "distance_km": 32.0,
+      "drive_time_min": 46
     },
     "vasiliki": {
-      "distance_km": 38.2,
+      "distance_km": 33.6,
       "drive_time_min": 49
     },
     "ammoussa": {
-      "distance_km": 37.1,
-      "drive_time_min": 50
+      "distance_km": 28.6,
+      "drive_time_min": 40
     }
   }
 }
