@@ -16,24 +16,20 @@
       "title": "Accommodation",
       "map": "Use the address in your booking confirmation for navigation.",
       "arrival": "Check-in after 15:00. Please contact the host in advance to arrange your arrival.",
-      "checkout": "Please check-out by 11:00. Leave the keys on the living room table and send a photo.",
+      "checkout": "Please check-out by 10:00. Leave the keys on the living room table and send a photo.",
       "late_checkout": "Late check-out may be available upon request and subject to availability. Contact host in advance to arrange.",
-      "transfer": "Free transfer is available from the KTEL bus station to the apartment, or transfer from the airport is available for a €35 fee, after prior notice.",
-      "air_condition": "The AC remote is in the living room, next to the TV remote. Recommended setting: 24–26°C for comfort and energy savings. The property also features underfloor heating/cooling for more consistent temperature control. When using the underfloor cooling, keep the AC running to help dehumidify the space.",
+      "air_condition": "Villa has Fan coil. Recommended setting: 22–26°C.",
       "water": "Tap water is not drinkable. Please use the bottled water in the refrigerator for drinking.",
       "hot_water": "Hot water is available 24h assisted by solar heating. In winter, on cloudy days, heating may be reduced.",
-      "beach_faucet": "There is a faucet outside the apartment to rinse your feet after the beach.",
-      "bbq": "If you need a BBQ setup, contact the host in advance.",
-      "consumables": "You can use all the consumables (slippers, essentials, water, breakfasts, chocolates).",
-      "baby_chair": "A baby chair is available if you request it in advance.",
-      "board_games": "There are board games under the TV. Please tidy them up after use and make sure no pieces are lost."
+      "bbq": "BBQ available in the pool area.",
+      "baby_chair": "A baby chair is available if you request it in advance."
     },
     "house_rules": {
       "title": "📋 House Rules",
       "rules": [
         "No smoking inside.",
-        "Please respect quiet hours 22:00-08:00.",
-        "Place any board games back in their boxes with all the pieces.",
+        "Please respect quiet hours 15:00-17:30 and 22:00-08:00.",
+        "Pets are not allowed.",
         "Shake sand off before entering from the beach."
       ]
     },
