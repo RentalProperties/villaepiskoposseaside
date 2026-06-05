@@ -9,8 +9,7 @@
     "wifi": {
       "title": "Πληροφορίες WiFi",
       "ssid": "VILLA EPISKOPOS SEA SIDE",
-      "password": "episkopos2025!",
-      "notes": "Το router βρίσκεται στο σαλόνι δίπλα στην τηλεόραση."
+      "password": "episkopos2025!"
     },
     "accommodation": {
       "title": "Διαμονή",
